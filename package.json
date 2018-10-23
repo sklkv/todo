@@ -1,0 +1,22 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sklkv/todo.git"
+  },
+  "keywords": [
+    "la-la-la"
+  ],
+  "author": "A. Soklakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sklkv/todo/issues"
+  },
+  "homepage": "https://github.com/sklkv/todo#readme"
+}
